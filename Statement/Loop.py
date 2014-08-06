@@ -6,12 +6,13 @@ def ForLoop():
     for i in range(10):
         print(i)
 
+#「i++」でインクリメントしたい…涙
 def WhileLoop():
     i = 0;
     while i <=100:
         print(i)
         i += 1
- 
+
 if __name__ == "__main__":
     ForLoop()
     

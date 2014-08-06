@@ -1,4 +1,4 @@
-# -*-coding utf-8 -*-
+# -*-coding: utf-8 -*-
 
 #Loop処理の確認
 #この例はCやjavaでいうfor(int i=0; i < 10; i++)と同等
